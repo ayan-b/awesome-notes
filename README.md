@@ -16,6 +16,8 @@
 
 - [**JavaScript Design Patterns for Humans**](https://github.com/sohamkamani/javascript-design-patterns-for-humans): An ultra-simplified explanation of design patterns implemented in JavaScript.
 
+- [**Patterns.dev**](https://patterns.dev): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+
 ## Database
 
 - [**Let's Build a Simple Database**](https://cstack.github.io/db_tutorial/): Writing a sqlite clone from scratch in C. ([GitHub](https://github.com/cstack/db_tutorial))
